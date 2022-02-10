@@ -1,0 +1,16 @@
+PODS:
+  - QingTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - QingTestDemo (from `Lib/QingTestDemo`)
+
+EXTERNAL SOURCES:
+  QingTestDemo:
+    :path: Lib/QingTestDemo
+
+SPEC CHECKSUMS:
+  QingTestDemo: d514158d14619a8bc43c308131119d580ae3f835
+
+PODFILE CHECKSUM: 5502fdb392aea6ba0e3560ca699cd25ccea17b76
+
+COCOAPODS: 1.11.2
